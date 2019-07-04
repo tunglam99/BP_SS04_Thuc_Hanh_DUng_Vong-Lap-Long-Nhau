@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+        let bang;
+        bang = "<table  border ='9' width = '50' cellspacing = '0' cellpadding = '5'>"
+    for (let i = 1; i<=10; i++){
+        bang = bang + "<tr>"; // khai báo bảng trong jS cần khai bao chuỗi; câu lệnh này để mở thẻ;; tạo ra các dòng từ 1 ->9
+        for (let j =1; j <=10; j++){
+            bang = bang + "<td>" + i*j + "</td>"
+        }
+        bang = bang + "</tr>"; // để đóng thể <tr>
+    }
+    bang = bang + "</table>"; // đóng thể <table>
+    document.write(bang);
+</script>
+</body>
+</html>

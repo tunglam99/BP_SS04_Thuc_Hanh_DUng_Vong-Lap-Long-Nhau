@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/../BP_Thuc_Hanh_DUng_Vong Lap Long Nhau/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../BP_Thuc_Hanh_DUng_Vong Lap Long Nhau/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../BP_Thuc_Hanh_DUng_Vong Lap Long Nhau/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
